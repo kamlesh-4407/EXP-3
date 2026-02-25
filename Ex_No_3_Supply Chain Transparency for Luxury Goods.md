@@ -14,7 +14,7 @@ Buyers can verify the product’s authenticity.
 
 
 # Program:
-```
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -51,12 +51,15 @@ contract LuxurySupplyChain {
 # Expected Output:
 A luxury good (e.g., a Rolex watch) is registered on-chain.
 
+<img width="1860" height="1004" alt="image" src="https://github.com/user-attachments/assets/606870ea-ac86-4c74-92aa-c484b91dac01" />
 
 Ownership is transferred at every checkpoint.
 
+<img width="1858" height="1005" alt="image" src="https://github.com/user-attachments/assets/1ae3356a-fec9-480d-bed5-fa84a0122900" />
 
 Buyers can check the authenticity before purchasing.
 
+<img width="1858" height="1004" alt="image" src="https://github.com/user-attachments/assets/cc121094-2345-4271-9673-07546e7e1767" />
 
 # High-Level Overview:
 Helps prevent counterfeit luxury goods.
@@ -65,4 +68,7 @@ Helps prevent counterfeit luxury goods.
 Teaches real-world supply chain use cases.
 
 # RESULT : 
+
+Hence we implemented code for a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
+
 
